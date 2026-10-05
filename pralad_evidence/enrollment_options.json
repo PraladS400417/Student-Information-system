@@ -1,0 +1,101 @@
+{
+  "session": [
+    {
+      "value": "",
+      "text": "Select Session"
+    },
+    {
+      "value": "5",
+      "text": "2019-2020"
+    },
+    {
+      "value": "6",
+      "text": "2020-2021"
+    }
+  ],
+  "department": [
+    {
+      "value": "",
+      "text": "Select Depertment"
+    },
+    {
+      "value": "8",
+      "text": "ENGLISH DEPARTMENT"
+    },
+    {
+      "value": "9",
+      "text": "CHINESE DEPARTMENT"
+    },
+    {
+      "value": "10",
+      "text": "SPANISH DEPARTMENT"
+    },
+    {
+      "value": "11",
+      "text": "GERMAN DEPARTMENT"
+    },
+    {
+      "value": "12",
+      "text": "FRENCH DEPARTMENT"
+    },
+    {
+      "value": "13",
+      "text": "ITALIAN DEPARTMENT"
+    }
+  ],
+  "level": [
+    {
+      "value": "",
+      "text": "Select Level"
+    },
+    {
+      "value": "5",
+      "text": "Level 1"
+    },
+    {
+      "value": "6",
+      "text": "Level 2"
+    },
+    {
+      "value": "7",
+      "text": "Level 3"
+    }
+  ],
+  "sem": [
+    {
+      "value": "",
+      "text": "Select Semester"
+    },
+    {
+      "value": "7",
+      "text": "1st"
+    },
+    {
+      "value": "8",
+      "text": "2nd"
+    }
+  ],
+  "course": [
+    {
+      "value": "",
+      "text": "Select Course"
+    },
+    {
+      "value": "1",
+      "text": "ENGLISH 001"
+    },
+    {
+      "value": "2",
+      "text": "CHINESE 001"
+    },
+    {
+      "value": "3",
+      "text": "MANDARIN 001"
+    },
+    {
+      "value": "4",
+      "text": "SPANISH 001"
+    }
+  ],
+  "course_code": []
+}

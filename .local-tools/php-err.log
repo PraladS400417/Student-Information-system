@@ -1,0 +1,679 @@
+[Sun Oct  4 14:58:41 2026] PHP 7.4.33 Development Server (http://127.0.0.1:8000) started
+[Sun Oct  4 14:58:43 2026] 127.0.0.1:55836 Accepted
+[Sun Oct  4 14:58:43 2026] 127.0.0.1:55836 [200]: GET /index.php
+[Sun Oct  4 14:58:43 2026] 127.0.0.1:55836 Closing
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:64469 Accepted
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:64469 [200]: GET /
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:64469 Closing
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:55268 Accepted
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:55268 [200]: GET /css/style.css
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:60832 Accepted
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:50171 Accepted
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:60832 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:50171 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:55268 Closing
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:60832 Closing
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:50171 Closing
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:63014 Accepted
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:63014 [200]: GET /img/student.png
+[Sun Oct  4 15:02:48 2026] 127.0.0.1:63014 Closing
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:62536 Accepted
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:62536 [200]: GET /img/background.png
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:62536 Closing
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:52521 Accepted
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:52521 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:02:51 2026] 127.0.0.1:52521 Closing
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:53240 Accepted
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:53240 [200]: GET /index.php
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:53240 Closing
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:64015 Accepted
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:64015 [200]: GET /css/style.css
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:63526 Accepted
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:61501 Accepted
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:63526 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:61501 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:64015 Closing
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:63526 Closing
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:62910 Accepted
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:62910 [200]: GET /img/student.png
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:61501 Closing
+[Sun Oct  4 15:03:09 2026] 127.0.0.1:62910 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56690 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56690 [200]: GET /img/background.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56690 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64794 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64794 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64794 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60833 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60833 [200]: GET /logout.php
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60833 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56878 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56878 [200]: GET /index.php
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56878 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:62273 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:62273 [200]: GET /css/style.css
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:57970 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64939 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:62273 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:57970 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64939 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:57970 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56019 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56019 [200]: GET /img/student.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54131 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54131 [200]: GET /img/background.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:56019 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54131 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:64939 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:58649 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:51309 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:58649 [200]: GET /index.php
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:58649 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:51309 [200]: GET /css/style.css
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54851 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54880 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:51309 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54851 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54880 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54851 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:49878 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:49878 [200]: GET /img/student.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60477 Accepted
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:54880 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60477 [200]: GET /img/background.png
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:49878 Closing
+[Sun Oct  4 15:03:12 2026] 127.0.0.1:60477 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:52809 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:52809 [200]: GET /index.php
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:52809 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:49670 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:49670 [200]: GET /css/style.css
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:58388 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:60249 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:58388 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:60249 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:49670 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:58388 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:55957 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:60249 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:63290 Accepted
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:55957 [200]: GET /img/student.png
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:63290 [200]: GET /img/background.png
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:55957 Closing
+[Sun Oct  4 15:03:13 2026] 127.0.0.1:63290 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49824 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49824 [200]: GET /logout.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49824 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64798 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64798 [200]: GET /index.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64798 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61600 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61600 [200]: GET /css/style.css
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61559 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63051 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61600 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61559 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63051 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61559 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50745 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64874 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50745 [200]: GET /img/background.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64874 [200]: GET /img/student.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63051 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50745 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:64874 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56121 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56121 [302]: GET /enroll.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56121 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51929 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51929 [200]: GET /index.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51929 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49673 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56695 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54014 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49673 [200]: GET /css/style.css
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56695 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54014 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:49673 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56695 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54275 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54275 [200]: GET /img/student.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62235 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62235 [200]: GET /img/background.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54014 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54275 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62235 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:57846 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:57846 [200]: GET /logout.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:57846 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62922 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62922 [200]: GET /index.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62922 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62755 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62755 [200]: GET /css/style.css
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62755 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50710 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51100 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50710 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51100 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:50710 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63194 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63194 [200]: GET /img/student.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61382 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61382 [200]: GET /img/background.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:63194 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:61382 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:51100 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:53207 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:53207 [200]: GET /index.php
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:53207 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62255 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62255 [200]: GET /css/style.css
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54791 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:62255 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:60377 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54791 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:54791 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:60377 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:60377 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56204 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56204 [200]: GET /img/student.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:56204 Closing
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:55336 Accepted
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:55336 [200]: GET /img/background.png
+[Sun Oct  4 15:03:14 2026] 127.0.0.1:55336 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:50850 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:50850 [200]: GET /logout.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:50850 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53258 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53258 [200]: GET /index.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53258 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58063 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58063 [200]: GET /css/style.css
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58063 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58418 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65072 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58418 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65072 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:58418 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65072 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:60134 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55730 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:60134 [200]: GET /img/background.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55730 [200]: GET /img/student.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:60134 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55730 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54938 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54938 [200]: GET /index.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54938 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57849 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57849 [200]: GET /css/style.css
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57849 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54682 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64454 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54682 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64454 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54682 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:63988 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:63988 [200]: GET /img/student.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64454 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59498 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59498 [200]: GET /img/background.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:63988 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59498 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53317 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53317 [200]: GET /logout.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53317 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53900 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53900 [200]: GET /index.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53900 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59305 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59305 [200]: GET /css/style.css
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55291 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:59305 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64056 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55291 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64056 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:55291 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64056 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57193 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57193 [200]: GET /img/student.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53955 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53955 [200]: GET /img/background.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:57193 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:53955 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:62973 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:62973 [200]: GET /index.php
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:62973 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:51578 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:51578 [200]: GET /css/style.css
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64594 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:51578 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65081 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64594 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65081 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:64594 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54630 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54630 [200]: GET /img/student.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:49673 Accepted
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:49673 [200]: GET /img/background.png
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:54630 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:49673 Closing
+[Sun Oct  4 15:03:15 2026] 127.0.0.1:65081 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53857 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53857 [200]: GET /logout.php
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53857 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53493 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53493 [200]: GET /index.php
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:53493 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:60231 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61955 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:60231 [200]: GET /css/style.css
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:60231 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61955 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63865 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63865 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61955 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59835 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59835 [200]: GET /img/student.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63225 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63225 [200]: GET /img/background.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59835 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63225 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:63865 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:56766 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:56766 [200]: GET /index.php
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:56766 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59946 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59946 [200]: GET /css/style.css
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62401 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:59946 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62772 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62401 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62772 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62401 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:50655 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:50655 [200]: GET /img/student.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61517 Accepted
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61517 [200]: GET /img/background.png
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:50655 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:61517 Closing
+[Sun Oct  4 15:03:16 2026] 127.0.0.1:62772 Closing
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57248 Accepted
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57248 [200]: GET /index.php
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57248 Closing
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59426 Accepted
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59426 [200]: GET /css/style.css
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:63511 Accepted
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57424 Accepted
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:63511 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57424 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59426 Closing
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:63511 Closing
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:57424 Closing
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59711 Accepted
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59711 [200]: GET /img/student.png
+[Sun Oct  4 15:03:58 2026] 127.0.0.1:59711 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:56321 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:56321 [200]: GET /img/background.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:56321 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61892 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61892 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61892 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64796 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64796 [200]: GET /logout.php
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64796 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58917 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58917 [200]: GET /index.php
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58917 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:57472 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:57472 [200]: GET /css/style.css
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:50935 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:62380 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:57472 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:50935 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:62380 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:50935 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:62380 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64660 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59951 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64660 [200]: GET /img/background.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59951 [200]: GET /img/student.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59951 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64660 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61943 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:60733 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61943 [200]: GET /index.php
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:61943 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:60733 [200]: GET /css/style.css
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59602 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64243 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:60733 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59602 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64243 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:59602 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58420 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58420 [200]: GET /img/student.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58911 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58911 [200]: GET /img/background.png
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58420 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64243 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58911 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64491 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64491 [302]: POST /index.php
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:64491 Closing
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58360 Accepted
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58360 [200]: GET /change-password.php
+[Sun Oct  4 15:04:02 2026] 127.0.0.1:58360 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51266 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51266 [200]: GET /index.php
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51266 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54740 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54740 [200]: GET /css/style.css
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51895 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54884 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54740 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51895 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54884 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:51895 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53827 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:62846 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53827 [200]: GET /img/background.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:62846 [200]: GET /img/student.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53827 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:62846 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:54884 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:64528 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:64528 [302]: POST /index.php
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:64528 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:49170 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:49170 [200]: GET /index.php
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:49170 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53285 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60066 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53285 [200]: GET /css/style.css
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:50029 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53285 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60066 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:50029 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60066 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60508 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53148 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:50029 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60508 [200]: GET /img/background.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53148 [200]: GET /img/student.png
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53148 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:60508 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53374 Accepted
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53374 [200]: GET /logout.php
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:53374 Closing
+[Sun Oct  4 15:04:03 2026] 127.0.0.1:64852 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64852 [200]: GET /index.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64852 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61525 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:62396 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61525 [200]: GET /css/style.css
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61525 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49738 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:62396 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:62396 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49738 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54993 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49738 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64945 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54993 [200]: GET /img/background.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64945 [200]: GET /img/student.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54993 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64945 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56862 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56862 [302]: GET /enroll.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56862 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:55303 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:55303 [200]: GET /index.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:55303 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50716 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50716 [200]: GET /css/style.css
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52324 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52324 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50716 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52324 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54924 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54924 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54924 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49762 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49762 [200]: GET /img/student.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:49762 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:59659 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:59659 [200]: GET /img/background.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:59659 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63634 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63634 [200]: GET /logout.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63634 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50176 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50176 [200]: GET /index.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50176 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61468 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56852 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61468 [200]: GET /css/style.css
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:61468 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56852 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56852 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63713 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63713 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:63713 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51907 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51907 [200]: GET /img/student.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51907 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64039 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64039 [200]: GET /img/background.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:64039 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:53222 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:53222 [200]: GET /index.php
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:53222 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52078 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52078 [200]: GET /css/style.css
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54798 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:52078 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50780 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54798 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50780 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:54798 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51194 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51194 [200]: GET /img/student.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:50780 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56562 Accepted
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56562 [200]: GET /img/background.png
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:51194 Closing
+[Sun Oct  4 15:04:04 2026] 127.0.0.1:56562 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57906 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57906 [302]: POST /index.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57906 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:55245 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:55245 [200]: GET /change-password.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:55245 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54317 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54317 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54317 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:51266 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58021 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:51266 [200]: GET /logout.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:51266 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58021 [200]: GET /index.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58021 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57210 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57210 [200]: GET /css/style.css
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:56579 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57210 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:50217 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:56579 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:50217 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:56579 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53706 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53706 [200]: GET /img/student.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54684 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54684 [200]: GET /img/background.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:50217 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53706 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:54684 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58650 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58650 [200]: GET /index.php
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:58650 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:60372 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:60372 [200]: GET /css/style.css
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57327 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53982 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:60372 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57327 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53982 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:57327 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53221 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53221 [200]: GET /img/student.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53982 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:62909 Accepted
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:62909 [200]: GET /img/background.png
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:53221 Closing
+[Sun Oct  4 15:04:05 2026] 127.0.0.1:62909 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55316 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55316 [302]: POST /index.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55316 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:52982 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:52982 [200]: GET /change-password.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:52982 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61820 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61820 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61820 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:49972 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56552 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:49972 [200]: GET /logout.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:49972 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56552 [200]: GET /index.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56552 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:58093 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64521 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:58093 [200]: GET /css/style.css
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:58093 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64521 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56780 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56780 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64521 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:56780 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61627 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61627 [200]: GET /img/student.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:61627 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:57330 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:57330 [200]: GET /img/background.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:57330 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55647 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55647 [200]: GET /index.php
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55647 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:62650 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:62650 [200]: GET /css/style.css
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55678 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:62650 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:51460 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55678 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:51460 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55678 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:51460 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55146 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64468 Accepted
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55146 [200]: GET /img/background.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64468 [200]: GET /img/student.png
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:55146 Closing
+[Sun Oct  4 15:04:06 2026] 127.0.0.1:64468 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61020 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61020 [302]: POST /index.php
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61020 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:50653 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:50653 [200]: GET /change-password.php
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:50653 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:64077 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:64077 [200]: GET /my-profile.php
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:64077 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:65000 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:60980 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:65000 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:52822 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:60980 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61796 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:52822 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:56295 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61796 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:53464 Accepted
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:56295 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:65000 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:60980 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:53464 [200]: GET /staffphoto/Capture.PNG
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:52822 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:56295 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:61796 Closing
+[Sun Oct  4 15:04:07 2026] 127.0.0.1:53464 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:61497 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:61497 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:61497 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:50707 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:50707 [200]: GET /logout.php
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:50707 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:62566 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:62566 [200]: GET /index.php
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:62566 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56746 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56180 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:60887 Accepted
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56746 [200]: GET /css/style.css
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56180 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:60887 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56746 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:56180 Closing
+[Sun Oct  4 15:04:10 2026] 127.0.0.1:60887 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60849 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55284 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60849 [200]: GET /img/background.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55284 [200]: GET /img/student.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55284 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60849 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53793 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53793 [200]: GET /index.php
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53793 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:64361 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:64361 [200]: GET /css/style.css
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:64361 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59228 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55606 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59228 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55606 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59228 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55606 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:65274 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:50490 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:65274 [200]: GET /img/student.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:50490 [200]: GET /img/background.png
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:65274 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:50490 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:51386 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:51386 [302]: POST /index.php
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:51386 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:49843 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:49843 [200]: GET /change-password.php
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:49843 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60913 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60913 [200]: GET /enroll-history.php
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60913 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60486 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55255 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60486 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:61741 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55255 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53269 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:61741 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59045 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53269 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59045 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:60486 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:55255 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:61741 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:59045 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:53269 Closing
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:52735 Accepted
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:52735 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:04:11 2026] 127.0.0.1:52735 Closing

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Valid teacher login",
+    "ok": true,
+    "detail": "http://127.0.0.1:8000/change-password.php",
+    "at": "2026-10-04T04:10:20.796Z"
+  },
+  {
+    "name": "Wrong PIN rejected",
+    "ok": true,
+    "detail": "Error message displayed: true",
+    "at": "2026-10-04T04:10:21.530Z"
+  },
+  {
+    "name": "Correct PIN opens enrollment",
+    "ok": true,
+    "detail": "http://127.0.0.1:8000/enroll.php",
+    "at": "2026-10-04T04:10:21.936Z"
+  },
+  {
+    "name": "Language enrollment submit",
+    "ok": false,
+    "detail": "Success text: false; URL: http://127.0.0.1:8000/enroll.php; before: http://127.0.0.1:8000/enroll.php",
+    "at": "2026-10-04T04:10:22.433Z"
+  },
+  {
+    "name": "Enrollment history heading",
+    "ok": true,
+    "detail": "History page loaded",
+    "at": "2026-10-04T04:10:22.885Z"
+  },
+  {
+    "name": "Profile registration number",
+    "ok": true,
+    "detail": "070101",
+    "at": "2026-10-04T04:10:23.225Z"
+  },
+  {
+    "name": "Profile update",
+    "ok": true,
+    "detail": "Success text: true; POST debug text: true",
+    "at": "2026-10-04T04:10:24.037Z"
+  },
+  {
+    "name": "Profile name restored",
+    "ok": true,
+    "detail": "Rahul",
+    "at": "2026-10-04T04:10:24.441Z"
+  },
+  {
+    "name": "SQL injection login probe",
+    "ok": false,
+    "detail": "Bypass observed: true; destination: http://127.0.0.1:8000/change-password.php",
+    "at": "2026-10-04T04:10:31.325Z"
+  }
+]

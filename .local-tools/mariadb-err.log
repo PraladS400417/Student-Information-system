@@ -1,0 +1,23 @@
+2026-10-04 14:58:03 0 [Note] D:\Student_Record_System_In_PHP_With_Source_Code\Student-Information-system\.local-tools\mariadb\mariadb-10.4.14-win32\bin\mysqld.exe (mysqld 10.4.14-MariaDB) starting as process 10912 ...
+InnoDB: using atomic writes.
+2026-10-04 14:58:03 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2026-10-04 14:58:03 0 [Note] InnoDB: Uses event mutexes
+2026-10-04 14:58:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2026-10-04 14:58:03 0 [Note] InnoDB: Number of pools: 1
+2026-10-04 14:58:03 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2026-10-04 14:58:03 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2026-10-04 14:58:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-10-04 14:58:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2026-10-04 14:58:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2026-10-04 14:58:03 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2026-10-04 14:58:03 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2026-10-04 14:58:03 0 [Note] InnoDB: Waiting for purge to start
+2026-10-04 14:58:03 0 [Note] InnoDB: 10.4.14 started; log sequence number 60967; transaction id 21
+2026-10-04 14:58:03 0 [Note] InnoDB: Loading buffer pool(s) from D:\Student_Record_System_In_PHP_With_Source_Code\Student-Information-system\.local-tools\db\ib_buffer_pool
+2026-10-04 14:58:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-10-04 14:58:03 0 [Note] Server socket created on IP: '::'.
+2026-10-04 14:58:03 0 [Note] InnoDB: Buffer pool(s) load completed at 261004 14:58:03
+2026-10-04 14:58:03 0 [Note] Reading of all Master_info entries succeeded
+2026-10-04 14:58:03 0 [Note] Added new Master_info '' to hash table
+2026-10-04 14:58:03 0 [Note] D:\Student_Record_System_In_PHP_With_Source_Code\Student-Information-system\.local-tools\mariadb\mariadb-10.4.14-win32\bin\mysqld.exe: ready for connections.
+Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

@@ -1,0 +1,35 @@
+{
+  "login": {
+    "route": "/index.php",
+    "requests": 30,
+    "status_codes": [
+      200
+    ],
+    "median_ms": 18.32,
+    "p95_ms": 32.26,
+    "max_ms": 36.54,
+    "min_body_bytes": 3932
+  },
+  "profile": {
+    "route": "/my-profile.php",
+    "requests": 30,
+    "status_codes": [
+      200
+    ],
+    "median_ms": 31.29,
+    "p95_ms": 47.23,
+    "max_ms": 52.59,
+    "min_body_bytes": 5231
+  },
+  "history": {
+    "route": "/enroll-history.php",
+    "requests": 30,
+    "status_codes": [
+      200
+    ],
+    "median_ms": 32.48,
+    "p95_ms": 48.93,
+    "max_ms": 52.19,
+    "min_body_bytes": 12067
+  }
+}

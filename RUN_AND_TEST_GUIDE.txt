@@ -1,0 +1,82 @@
+STUDENT INFORMATION SYSTEM: VS CODE RUN AND TEST GUIDE
+
+1. Can it run from VS Code?
+Yes. VS Code is the editor; the application still needs PHP and MySQL/MariaDB.
+This repository is a plain PHP site (no Composer or npm install required). Its
+database connection uses the mysqli PHP extension. XAMPP is one convenient way
+to provide Apache, PHP, MySQL/MariaDB, and phpMyAdmin on Windows.
+
+2. Set up the database
+- Install XAMPP, then start Apache and MySQL in the XAMPP Control Panel.
+- Open http://localhost/phpmyadmin/ and create a database named Acourse.
+- Select Acourse > Import > choose sqlfile/acourse.sql from this project > Go.
+- Confirm that tables including admin, staff, student, and courseenrolls exist.
+- Both includes/config.php and admin/includes/config.php expect localhost,
+  MySQL user root, an empty password, and database Acourse. If your local MySQL
+  credentials differ, change BOTH files for your own installation.
+- The README says onlinecourse/onlinecourse.sql, but those names do not match
+  the files and configuration in this repository.
+
+3. Run the site while editing in VS Code
+- Open this project folder in VS Code (File > Open Folder).
+- For the simplest XAMPP setup, copy the whole project folder to
+  C:\xampp\htdocs\Student-Information-system (or put it there directly).
+- Browse to http://localhost/Student-Information-system/ for the teacher side.
+- Browse to http://localhost/Student-Information-system/admin/ for the admin side.
+- Alternatively, with XAMPP MySQL running, open a VS Code terminal in this
+  project folder and run C:\xampp\php\php.exe -S localhost:8000 .
+  Then use http://localhost:8000/ and http://localhost:8000/admin/.
+  If XAMPP is installed elsewhere, use that installation's php.exe path.
+- Do not use VS Code Live Server for PHP: it does not execute PHP scripts.
+
+4. Login and smoke test
+- Admin account in the SQL dump: admin / Test@123.
+- The README's teacher account 10806121 / 123 is absent from the supplied dump.
+  A teacher account present in the dump is 070101 / 1234. Another is
+  12345678 / Test@123. These are test data only; change credentials before
+  exposing the site outside a local development machine.
+- Confirm both login pages load, CSS/images appear, and login redirects work.
+- If the browser shows a database connection error, check MySQL is running,
+  the Acourse import succeeded, and both config files match your credentials.
+- This is older PHP code. If it fails under a current PHP version, record the
+  exact error and PHP version. The dump was generated with PHP 7.4.9 and
+  MariaDB 10.4.14; those versions are a useful compatibility reference.
+
+5. Testing work allocation (after the site runs)
+Use separate test records where possible. Save a screenshot, expected result,
+actual result, and browser/PHP version for every failed case. Coordinate before
+resetting or deleting shared records.
+
+MILAN BASHYAL - Setup, login, and account security
+  Test database import, both entry pages, valid/invalid admin and teacher login,
+  logout, direct access to protected pages, and password change. Check that
+  sessions end after logout. Log any errors or unexpected redirects.
+
+MOU BISWAS - Admin academic configuration
+  Test admin Session, Semester, Department, Level/Language Course, and course
+  screens. Try valid creation/editing, empty or duplicate inputs, and list
+  display. Verify saved changes in the UI and database where practical.
+
+MAHINUR RAHMAN - Admin teacher management
+  Test Teacher Registration, Manage Teacher, profile edit, password reset,
+  teacher logs, and deletion using a newly created disposable record. Check
+  required fields, duplicate IDs, and that the teacher can log in afterward.
+
+PRALAD RAYA - Teacher profile and enrollment
+  Test teacher profile, password change, PIN verification, language course
+  enrollment, student enrollment, course list, and enrollment history. Try
+  valid and invalid PINs and repeated enrollment; confirm records appear.
+
+SUSHAN SHRESTHA - Grades, reports, and final integration
+  Test grade/marks entry and display, admin enrollment history, print pages,
+  and end-to-end flow: create teacher > log in > enroll > enter/view marks.
+  Consolidate all five testers' bug reports and rerun fixed cases.
+
+6. Bug report format
+ID | Tester | Page/URL | Steps | Expected | Actual | Screenshot | Severity
+Example: BUG-01 | MILAN BASHYAL | /admin/ | enter bad password, submit |
+error message shown | blank page | screenshot.png | Medium
+
+Local verification status: this guide is based on code and SQL inspection.
+PHP, MySQL, and XAMPP are not installed or available on this machine, so the
+application was not launched here. The team should perform the smoke test above.

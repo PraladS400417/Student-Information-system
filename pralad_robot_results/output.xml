@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.5 (Python 3.12.14 on win32)" generated="2026-10-04T15:05:00.695893" rpa="false" schemaversion="5">
+<suite id="s1" name="Pralad Teacher Tests" source="D:\Student_Record_System_In_PHP_With_Source_Code\Student-Information-system\pralad_teacher_tests.robot">
+<kw name="Open Test Browser" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:01.043441" level="INFO">Opening browser 'edge' to base url 'http://127.0.0.1:8000/index.php'.</msg>
+<msg time="2026-10-04T15:05:01.294318" level="WARN">Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.microsoft.com/LATEST_RELEASE_154_WINDOWS)</msg>
+<arg>${BASE_URL}/index.php</arg>
+<arg>${BROWSER}</arg>
+<arg>options=add_argument("--headless=new");add_argument("--disable-gpu");add_argument("--no-sandbox");add_argument("--disable-dev-shm-usage")</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:01.043441" elapsed="4.706707"/>
+</kw>
+<kw name="Set Window Size" owner="SeleniumLibrary">
+<arg>1365</arg>
+<arg>900</arg>
+<doc>Sets current windows size to given ``width`` and ``height``.</doc>
+<status status="PASS" start="2026-10-04T15:05:05.750148" elapsed="0.039512"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:01.043441" elapsed="4.746219"/>
+</kw>
+<test id="s1-t1" name="TC01 Teacher Login With Valid Credentials" line="15">
+<kw name="Log In As Teacher">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:05.791920" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:05.791920" elapsed="0.194803"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:05.987724" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:05.986723" elapsed="0.088502"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:06.075225" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:06.075225" elapsed="0.111302"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:06.187539" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:06.187539" elapsed="0.126578"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:06.314425" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:06.356019" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>${TEACHER_PASSWORD}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:06.314425" elapsed="0.100465"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:06.415891" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:06.414890" elapsed="0.089395"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>change-password.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:06.504285" elapsed="3.332966"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:05.790916" elapsed="4.046335"/>
+</kw>
+<kw name="Location Should Contain" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:09.853818" level="INFO">Current location contains 'change-password.php'.</msg>
+<arg>change-password.php</arg>
+<doc>Verifies that the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:09.837251" elapsed="0.016567"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:05.789660" elapsed="4.064158"/>
+</test>
+<test id="s1-t2" name="TC02 Invalid Teacher Login Is Rejected" line="19">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:09.856817" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:09.855817" elapsed="0.112058"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:09.967875" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:09.967875" elapsed="0.094600"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.064479" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.063475" elapsed="0.145738"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.211214" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:10.268698" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>incorrect-password</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.210212" elapsed="0.177748"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.388955" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.388955" elapsed="0.250202"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>index.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.640159" elapsed="0.010065"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.650224" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.650224" elapsed="0.088871"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.766902" level="INFO">Current page contains text 'Invalid Teacher ID or Password'.</msg>
+<arg>Invalid Teacher ID or Password</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.739095" elapsed="0.028808"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:09.854815" elapsed="0.913088"/>
+</test>
+<test id="s1-t3" name="TC03 Protected Enrollment Redirects Without Login" line="29">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.768911" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.768911" elapsed="0.194934"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:10.964817" level="INFO">Opening url 'http://127.0.0.1:8000/enroll.php'</msg>
+<arg>${BASE_URL}/enroll.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:10.964817" elapsed="0.115916"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>index.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.081728" elapsed="0.024100"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:10.767903" elapsed="0.338914"/>
+</test>
+<test id="s1-t4" name="TC04 Incorrect PIN Is Rejected" line="34">
+<kw name="Log In As Teacher">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.109821" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.109821" elapsed="0.184920"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.294741" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.294741" elapsed="0.100540"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.395281" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.395281" elapsed="0.098713"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.494993" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.494993" elapsed="0.113745"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.608738" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:11.646686" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>${TEACHER_PASSWORD}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.608738" elapsed="0.130397"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:11.739135" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:11.739135" elapsed="0.325138"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>change-password.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.064273" elapsed="0.008252"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:11.108814" elapsed="0.963711"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.072525" level="INFO">Opening url 'http://127.0.0.1:8000/pincode-verification.php'</msg>
+<arg>${BASE_URL}/pincode-verification.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.072525" elapsed="0.102821"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.175346" level="INFO">Typing password into text field 'name:pincode'.</msg>
+<msg time="2026-10-04T15:05:12.221435" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:pincode</arg>
+<arg>000000</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.175346" elapsed="0.111953"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.289320" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.287299" elapsed="0.252923"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.566334" level="INFO">Current page contains text 'Wrong Pincode'.</msg>
+<arg>Wrong Pincode</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.540222" elapsed="0.026112"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:11.106817" elapsed="1.460446"/>
+</test>
+<test id="s1-t5" name="TC05 Correct PIN Opens Enrollment" line="41">
+<kw name="Log In As Teacher">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.569225" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.568218" elapsed="0.191368"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.760583" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.759586" elapsed="0.095986"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.855572" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.855572" elapsed="0.070481"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:12.926997" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:12.926053" elapsed="0.108009"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:13.035105" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:13.077586" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>${TEACHER_PASSWORD}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.034062" elapsed="0.119686"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:13.154747" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.153748" elapsed="0.230518"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>change-password.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.385268" elapsed="0.010999"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:12.568218" elapsed="0.829029"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:13.397247" level="INFO">Opening url 'http://127.0.0.1:8000/pincode-verification.php'</msg>
+<arg>${BASE_URL}/pincode-verification.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.397247" elapsed="0.152286"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:13.550565" level="INFO">Typing password into text field 'name:pincode'.</msg>
+<msg time="2026-10-04T15:05:13.601989" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:pincode</arg>
+<arg>${TEACHER_PIN}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.549533" elapsed="0.143448"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:13.693871" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.693871" elapsed="0.130415"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>enroll.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:13.825292" elapsed="0.216872"/>
+</kw>
+<kw name="Page Should Contain Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.057507" level="INFO">Current page contains element 'name:course'.</msg>
+<arg>name:course</arg>
+<doc>Verifies that element ``locator`` is found on the current page.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.043169" elapsed="0.014338"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:12.567263" elapsed="1.490244"/>
+</test>
+<test id="s1-t6" name="TC06 Teacher Profile Displays Registration Number" line="49">
+<kw name="Log In As Teacher">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.059512" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.059512" elapsed="0.162823"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.222335" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.222335" elapsed="0.101494"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.323829" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.323829" elapsed="0.075607"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.400456" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.399436" elapsed="0.096903"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.496339" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:14.537911" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>${TEACHER_PASSWORD}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.496339" elapsed="0.099438"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.597170" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.595777" elapsed="0.281832"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>change-password.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.877609" elapsed="0.007309"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:14.058508" elapsed="0.827414"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:14.885922" level="INFO">Opening url 'http://127.0.0.1:8000/my-profile.php'</msg>
+<arg>${BASE_URL}/my-profile.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:14.885922" elapsed="0.155954"/>
+</kw>
+<kw name="Textfield Value Should Be" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.083750" level="INFO">Content of text field 'name:studentregno' is '070101'.</msg>
+<arg>name:studentregno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Verifies text field ``locator`` has exactly text ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.042877" elapsed="0.040873"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:14.058508" elapsed="1.025242"/>
+</test>
+<test id="s1-t7" name="TC07 Enrollment History Loads" line="54">
+<kw name="Log In As Teacher">
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.085753" level="INFO">Opening url 'http://127.0.0.1:8000/logout.php'</msg>
+<arg>${BASE_URL}/logout.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.085753" elapsed="0.147672"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.233425" level="INFO">Opening url 'http://127.0.0.1:8000/index.php'</msg>
+<arg>${BASE_URL}/index.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.233425" elapsed="0.118320"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.352965" level="INFO">Clicking element 'id:menu-student-signin'.</msg>
+<arg>id:menu-student-signin</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.351745" elapsed="0.099864"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.452614" level="INFO">Typing text '070101' into text field 'name:regno'.</msg>
+<arg>name:regno</arg>
+<arg>${TEACHER_ID}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.451609" elapsed="0.095018"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.546627" level="INFO">Typing password into text field 'name:password'.</msg>
+<msg time="2026-10-04T15:05:15.587742" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>name:password</arg>
+<arg>${TEACHER_PASSWORD}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.546627" elapsed="0.100699"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.647326" level="INFO">Clicking button 'css:button[type="submit"]'.</msg>
+<arg>css:button[type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.647326" elapsed="0.222221"/>
+</kw>
+<kw name="Wait Until Location Contains" owner="SeleniumLibrary">
+<arg>change-password.php</arg>
+<doc>Waits until the current URL contains ``expected``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.869547" elapsed="0.010514"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:15.085753" elapsed="0.795531"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:15.881284" level="INFO">Opening url 'http://127.0.0.1:8000/enroll-history.php'</msg>
+<arg>${BASE_URL}/enroll-history.php</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-04T15:05:15.881284" elapsed="0.145095"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-10-04T15:05:16.054623" level="INFO">Current page contains text 'Enroll History'.</msg>
+<arg>Enroll History</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-10-04T15:05:16.026379" elapsed="0.028244"/>
+</kw>
+<status status="PASS" start="2026-10-04T15:05:15.084753" elapsed="0.970870"/>
+</test>
+<kw name="Close Browser" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-10-04T15:05:16.056609" elapsed="2.354069"/>
+</kw>
+<doc>Individual browser tests for Pralad Raya S400417. Run only against a local disposable database.</doc>
+<status status="PASS" start="2026-10-04T15:05:00.700754" elapsed="17.709924"/>
+</suite>
+<statistics>
+<total>
+<stat pass="7" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Pralad Teacher Tests" id="s1" pass="7" fail="0" skip="0">Pralad Teacher Tests</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-10-04T15:05:01.294318" level="WARN">Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.microsoft.com/LATEST_RELEASE_154_WINDOWS)</msg>
+</errors>
+</robot>

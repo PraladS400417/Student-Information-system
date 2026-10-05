@@ -1,0 +1,1366 @@
+[Sun Oct  4 15:04:43 2026] PHP 7.4.33 Development Server (http://127.0.0.1:8000) started
+[Sun Oct  4 15:04:45 2026] 127.0.0.1:62560 Accepted
+[Sun Oct  4 15:04:45 2026] 127.0.0.1:62560 [200]: GET /index.php
+[Sun Oct  4 15:04:45 2026] 127.0.0.1:62560 Closing
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:50159 Accepted
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:49889 Accepted
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:50159 [200]: GET /index.php
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:50159 Closing
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:49889 [200]: GET /css/style.css
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:51120 Accepted
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:53816 Accepted
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:51120 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:53816 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:49889 Closing
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:51120 Closing
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:53816 Closing
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:62742 Accepted
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:62742 [200]: GET /img/student.png
+[Sun Oct  4 15:05:02 2026] 127.0.0.1:62742 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63999 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63999 [200]: GET /img/background.png
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63999 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:60723 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:60723 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:60723 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:51817 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:51817 [200]: GET /logout.php
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:51817 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:54693 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:54693 [200]: GET /index.php
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:54693 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58330 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58330 [200]: GET /css/style.css
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58330 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63054 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58686 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63054 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58686 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:63054 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:61666 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:61666 [200]: GET /img/student.png
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:52975 Accepted
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:52975 [200]: GET /img/background.png
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:61666 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:52975 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:58686 Closing
+[Sun Oct  4 15:05:05 2026] 127.0.0.1:60054 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60054 [200]: GET /index.php
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60054 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:50320 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:50320 [200]: GET /css/style.css
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62848 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:50320 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60396 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62848 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60396 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62848 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62761 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62761 [200]: GET /img/student.png
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:58345 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:58345 [200]: GET /img/background.png
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60396 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62761 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:58345 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62257 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62257 [302]: POST /index.php
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62257 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:55997 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:55997 [200]: GET /change-password.php
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:55997 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:52673 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62715 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:56284 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60296 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:61490 Accepted
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:52673 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62715 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:56284 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60296 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:61490 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:52673 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:62715 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:56284 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:61490 Closing
+[Sun Oct  4 15:05:06 2026] 127.0.0.1:60296 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:62589 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:62589 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:62589 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:51479 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:51479 [200]: GET /index.php
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:51479 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:59671 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:59671 [200]: GET /css/style.css
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:59671 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:57933 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:60870 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:57933 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:60870 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:57933 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:60870 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:61939 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:55705 Accepted
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:61939 [200]: GET /img/background.png
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:55705 [200]: GET /img/student.png
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:55705 Closing
+[Sun Oct  4 15:05:09 2026] 127.0.0.1:61939 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58033 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58033 [302]: POST /index.php
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58033 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:59117 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:59117 [200]: GET /index.php
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:59117 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58338 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:55442 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54501 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58338 [200]: GET /css/style.css
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:55442 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54501 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:58338 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:55442 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54501 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:62536 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57044 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:62536 [200]: GET /img/background.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57044 [200]: GET /img/student.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57044 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:62536 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57286 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57286 [200]: GET /logout.php
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57286 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:63403 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:63403 [200]: GET /index.php
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:63403 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64339 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64339 [200]: GET /css/style.css
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54703 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64339 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54033 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54703 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54033 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54703 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64247 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64247 [200]: GET /img/student.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:60241 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:60241 [200]: GET /img/background.png
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:64247 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:60241 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:54033 Closing
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57815 Accepted
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57815 [302]: GET /enroll.php
+[Sun Oct  4 15:05:10 2026] 127.0.0.1:57815 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:50343 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:50343 [200]: GET /index.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:50343 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:63332 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61520 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:63332 [200]: GET /css/style.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58805 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61520 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:63332 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58805 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61520 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60243 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52199 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60243 [200]: GET /img/background.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52199 [200]: GET /img/student.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60243 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52199 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58805 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58967 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58967 [200]: GET /logout.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:58967 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61297 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61297 [200]: GET /index.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:61297 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57260 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57260 [200]: GET /css/style.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57260 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:65081 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60934 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:65081 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60934 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:65081 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:60934 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:49673 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:55290 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:49673 [200]: GET /img/background.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:55290 [200]: GET /img/student.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:49673 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:55290 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57475 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57475 [200]: GET /index.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57475 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:56936 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:56936 [200]: GET /css/style.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:56936 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:64972 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:62090 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:64972 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:62090 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:64972 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:51731 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:51731 [200]: GET /img/student.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:54994 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:54994 [200]: GET /img/background.png
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:51731 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:54994 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:62090 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57342 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57342 [302]: POST /index.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:57342 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52436 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52436 [200]: GET /change-password.php
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52436 Closing
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:50580 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52657 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:56043 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:65412 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:50580 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52862 Accepted
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52657 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:56043 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:65412 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:11 2026] 127.0.0.1:52862 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50580 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52657 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:56043 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52862 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:65412 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59102 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59102 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59102 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:55415 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:55415 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50046 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50046 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51644 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:53326 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:55415 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62265 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51644 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:53326 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50046 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62265 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51644 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62265 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:53326 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57492 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57492 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57492 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:54605 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:54605 [200]: POST /pincode-verification.php
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:54605 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62374 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62374 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59164 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59164 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50758 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:64632 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:62374 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50758 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:64632 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59164 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:50758 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61676 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:64632 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51396 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51396 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51396 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52382 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52382 [200]: GET /logout.php
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52382 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57821 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57821 [200]: GET /index.php
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57821 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61856 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61856 [200]: GET /css/style.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63688 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61856 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51952 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63688 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51952 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63688 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:56685 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61347 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:56685 [200]: GET /img/background.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61347 [200]: GET /img/student.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:51952 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:56685 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:61347 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57590 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57590 [200]: GET /index.php
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57590 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:49181 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:49181 [200]: GET /css/style.css
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:49181 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59563 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63019 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59563 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63019 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:59563 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:63019 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52736 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52736 [200]: GET /img/student.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57662 Accepted
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57662 [200]: GET /img/background.png
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:52736 Closing
+[Sun Oct  4 15:05:12 2026] 127.0.0.1:57662 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63557 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63557 [302]: POST /index.php
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63557 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63252 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63252 [200]: GET /change-password.php
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63252 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54391 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:58483 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59686 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49847 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54391 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:58483 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55486 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59686 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49847 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55486 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:58483 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54391 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59686 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55486 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49847 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63399 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63399 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63399 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54133 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54133 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:54133 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52429 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52429 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55321 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64302 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63197 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55321 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64302 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52429 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49205 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63197 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49205 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:55321 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64302 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49205 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:63197 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56310 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56310 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56310 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56753 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56753 [302]: POST /pincode-verification.php
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56753 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64219 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64219 [200]: GET /enroll.php
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:64219 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56879 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49836 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56879 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52841 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49836 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:50631 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52841 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:51792 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:50631 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:51792 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:56879 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:49836 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:52841 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:51792 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:50631 Closing
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59262 Accepted
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59262 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:13 2026] 127.0.0.1:59262 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 [200]: GET /logout.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64859 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64859 [200]: GET /index.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64859 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52779 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52779 [200]: GET /css/style.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52779 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:58228 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57449 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:58228 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57449 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:58228 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52113 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57449 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:53955 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52113 [200]: GET /img/background.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:53955 [200]: GET /img/student.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:53955 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52113 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:62211 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:62211 [200]: GET /index.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:62211 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59580 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59580 [200]: GET /css/style.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59580 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59120 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64317 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59120 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64317 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:59120 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64317 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49896 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49896 [200]: GET /img/student.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:60954 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:60954 [200]: GET /img/background.png
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49896 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:60954 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:63430 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:63430 [302]: POST /index.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:63430 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64502 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64502 [200]: GET /change-password.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64502 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51155 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:50194 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51155 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:50194 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57817 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61479 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49913 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57817 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61479 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51155 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:50194 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49913 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:57817 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49913 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61479 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:49670 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56047 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56047 [200]: GET /my-profile.php
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56047 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:55771 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:55771 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61726 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64518 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52541 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61726 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64518 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:55771 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56357 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:52541 [200]: GET /staffphoto/Capture.PNG
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51376 Accepted
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56357 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51376 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:61726 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:64518 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:51376 Closing
+[Sun Oct  4 15:05:14 2026] 127.0.0.1:56357 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52541 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50823 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50823 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50823 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57819 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57819 [200]: GET /logout.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57819 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52388 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52388 [200]: GET /index.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52388 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50278 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50278 [200]: GET /css/style.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57971 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57322 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50278 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57971 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57322 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57971 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56057 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56057 [200]: GET /img/student.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64235 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64235 [200]: GET /img/background.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57322 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56057 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64235 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52937 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52937 [200]: GET /index.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:52937 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51685 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51685 [200]: GET /css/style.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59787 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51685 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:63599 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59787 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:63599 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59787 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59184 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59184 [200]: GET /img/student.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:54657 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:54657 [200]: GET /img/background.png
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:63599 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59184 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:54657 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57110 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57110 [302]: POST /index.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57110 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:49751 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:49751 [200]: GET /change-password.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:49751 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51880 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64357 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53363 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57724 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56541 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51880 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64357 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53363 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57724 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56541 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:51880 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64357 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53363 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:56541 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:57724 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50039 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50039 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:50039 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53008 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53008 [200]: GET /enroll-history.php
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53008 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59393 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59393 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53953 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53953 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60781 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60630 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:59393 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64854 Accepted
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60781 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60630 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:53953 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64854 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60781 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:64854 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:60630 Closing
+[Sun Oct  4 15:05:15 2026] 127.0.0.1:58738 Accepted
+[Sun Oct  4 15:05:16 2026] 127.0.0.1:58738 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:05:16 2026] 127.0.0.1:58738 Closing
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:55756 Accepted
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:55756 [200]: GET /index.php
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:55756 Closing
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:50329 Accepted
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:52195 Accepted
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:61736 Accepted
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:52195 [200]: GET /css/style.css
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:50329 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:61736 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:52195 Closing
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:50329 Closing
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:61736 Closing
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:62715 Accepted
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:62715 [200]: GET /img/student.png
+[Sun Oct  4 15:06:00 2026] 127.0.0.1:62715 Closing
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:59404 Accepted
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:59404 [200]: GET /img/background.png
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:59404 Closing
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:52105 Accepted
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:52105 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:06:03 2026] 127.0.0.1:52105 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:52819 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:52819 [302]: POST /index.php
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:52819 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57426 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57426 [200]: GET /change-password.php
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57426 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:64783 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:64783 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:51456 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:64783 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:56051 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57117 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:51456 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:56051 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57117 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:62220 Accepted
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:62220 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:51456 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:56051 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:57117 Closing
+[Sun Oct  4 15:06:05 2026] 127.0.0.1:62220 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55638 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55638 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55638 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54541 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54541 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54541 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54561 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54561 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54057 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54561 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54057 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:54057 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:52122 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:58914 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55473 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:52122 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:58914 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55473 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:52122 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:55473 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:58914 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56065 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56065 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56065 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:62079 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:62079 [200]: POST /pincode-verification.php
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:62079 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:49670 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:64263 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:57226 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:50920 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:49670 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:64263 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:57226 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:50920 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56592 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:49670 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:64263 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:57226 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56592 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:50920 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:56592 Closing
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:61173 Accepted
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:61173 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:08 2026] 127.0.0.1:61173 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:53496 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:53496 [302]: POST /pincode-verification.php
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:53496 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50432 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50432 [200]: GET /enroll.php
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50432 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:64766 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:64766 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55905 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:64766 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55314 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55905 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55314 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50305 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55905 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:65008 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:55314 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50305 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:65008 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:65008 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50305 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:52915 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:52915 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:52915 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:61809 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:61809 [200]: POST /enroll.php
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:61809 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:62206 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:62206 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:62206 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:49255 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:54900 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:63274 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:49255 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:54900 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:63274 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50506 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50506 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:49255 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:54900 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:63274 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:50506 Closing
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:60640 Accepted
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:60640 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:09 2026] 127.0.0.1:60640 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:57376 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:57376 [200]: GET /enroll-history.php
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:57376 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50520 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58318 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63476 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50520 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58318 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63476 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53309 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50520 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58318 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63654 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63476 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53309 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63654 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63654 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53309 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63239 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63239 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:63239 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49163 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49163 [200]: GET /my-profile.php
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49163 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64001 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64001 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64001 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50665 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50235 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49703 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50665 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50235 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49703 [200]: GET /staffphoto/Capture.PNG
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58267 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58267 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50665 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:50235 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58267 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53541 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53541 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:53541 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:49703 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58976 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58976 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58976 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64101 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64101 [200]: POST /my-profile.php
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:64101 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:55032 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:55032 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:55032 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58109 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56314 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58547 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58109 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56314 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58547 [200]: POST /staffphoto/Capture.PNG
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:54000 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:54000 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58109 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56314 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56270 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:54000 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56270 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:56270 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:58547 Closing
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:51387 Accepted
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:51387 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:10 2026] 127.0.0.1:51387 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:63524 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:63524 [200]: POST /my-profile.php
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:63524 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57412 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57412 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57412 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51739 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:61186 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51510 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51739 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:61186 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51510 [200]: POST /staffphoto/Capture.PNG
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:62475 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:62475 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51739 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:61186 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:62475 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57982 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57982 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57982 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:51510 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57468 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57468 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:57468 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:55579 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:55579 [200]: GET /index.php
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:55579 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60873 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60873 [200]: GET /css/style.css
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60873 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:58895 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:49330 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:58895 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:49330 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:58895 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60727 Accepted
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:49330 Closing
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60727 [200]: GET /img/student.png
+[Sun Oct  4 15:06:11 2026] 127.0.0.1:60727 Closing
+[Sun Oct  4 15:06:14 2026] 127.0.0.1:52368 Accepted
+[Sun Oct  4 15:06:14 2026] 127.0.0.1:52368 [200]: GET /img/background.png
+[Sun Oct  4 15:06:14 2026] 127.0.0.1:52368 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:54464 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:54464 [302]: POST /index.php
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:54464 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50646 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50646 [200]: GET /change-password.php
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50646 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:52458 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:52458 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:53141 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50420 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:52458 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:61882 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:53141 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50420 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:61882 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:60921 Accepted
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:60921 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:53141 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:50420 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:61882 Closing
+[Sun Oct  4 15:06:15 2026] 127.0.0.1:60921 Closing
+[Sun Oct  4 15:06:18 2026] 127.0.0.1:59371 Accepted
+[Sun Oct  4 15:06:18 2026] 127.0.0.1:59371 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:06:18 2026] 127.0.0.1:59371 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59357 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59357 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59357 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59359 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59359 [302]: POST /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59359 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59361 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59361 [200]: GET /change-password.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59361 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59364 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59364 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59364 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59366 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59366 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59366 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59368 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59368 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59368 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59370 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59370 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59370 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59372 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59372 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59372 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59374 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59374 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59374 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59376 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59376 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59376 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59378 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59378 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59378 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59380 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59380 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59380 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59382 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59382 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59382 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59384 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59384 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59384 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59386 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59386 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59386 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59388 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59388 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59388 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59390 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59390 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59390 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59392 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59392 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59392 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59395 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59395 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59395 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59397 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59397 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59397 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59399 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59399 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59399 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59401 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59401 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59401 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59403 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59403 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59403 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59405 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59405 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59405 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59407 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59407 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59407 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59409 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59409 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59409 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59411 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59411 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59411 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59413 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59413 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59413 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59415 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59415 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59415 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59417 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59417 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59417 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59419 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59419 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59419 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59421 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59421 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59421 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59423 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59423 [200]: GET /index.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59423 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59425 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59425 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59425 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59428 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59428 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59428 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59431 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59431 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59431 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59434 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59434 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59434 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59437 Accepted
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59437 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59437 Closing
+[Sun Oct  4 15:07:06 2026] 127.0.0.1:59440 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:59440 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:59440 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51613 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51613 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51613 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51616 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51616 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51616 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51619 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51619 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51619 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51622 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51622 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51622 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51625 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51625 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51625 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51628 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51628 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51628 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51631 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51631 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51631 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51634 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51634 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51634 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51637 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51637 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51637 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51640 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51640 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51640 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51643 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51643 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51643 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51646 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51646 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51646 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51649 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51649 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51649 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51652 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51652 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51652 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51655 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51655 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51655 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51658 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51658 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51658 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51661 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51661 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51661 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51664 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51664 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51664 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51667 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51667 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51667 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51670 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51670 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51670 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51673 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51673 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51673 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51676 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51676 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51676 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51679 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51679 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51679 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51682 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51682 [200]: GET /my-profile.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51682 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51685 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51685 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51685 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51689 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51689 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51689 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51692 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51692 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51692 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51695 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51695 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51695 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51698 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51698 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51698 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51701 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51701 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51701 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51704 Accepted
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51704 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51704 Closing
+[Sun Oct  4 15:07:07 2026] 127.0.0.1:51707 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51707 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51707 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51710 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51710 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51710 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51713 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51713 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51713 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51716 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51716 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51716 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51719 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51719 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51719 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51722 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51722 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51722 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51725 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51725 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51725 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51728 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51728 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51728 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51731 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51731 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51731 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51734 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51734 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51734 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51737 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51737 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51737 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51741 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51741 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51741 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51744 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51744 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51744 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51747 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51747 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51747 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51750 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51750 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51750 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51753 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51753 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51753 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51756 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51756 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51756 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51759 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51759 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51759 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51762 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51762 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51762 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51765 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51765 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51765 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51768 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51768 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51768 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51771 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51771 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51771 Closing
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51774 Accepted
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51774 [200]: GET /enroll-history.php
+[Sun Oct  4 15:07:08 2026] 127.0.0.1:51774 Closing
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:56672 Accepted
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:56672 [200]: GET /index.php
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:56672 Closing
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:60629 Accepted
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:60629 [200]: GET /css/style.css
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:55142 Accepted
+[Sun Oct  4 15:10:12 2026] 127.0.0.1:60629 Closing
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:65039 Accepted
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:55142 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:65039 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:55142 Closing
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:65039 Closing
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:50553 Accepted
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:50553 [200]: GET /img/student.png
+[Sun Oct  4 15:10:13 2026] 127.0.0.1:50553 Closing
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:52677 Accepted
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:52677 [200]: GET /img/background.png
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:52677 Closing
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:53046 Accepted
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:53046 [404]: GET /favicon.ico - No such file or directory
+[Sun Oct  4 15:10:16 2026] 127.0.0.1:53046 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:51355 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:51355 [302]: POST /index.php
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:51355 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:59876 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:59876 [200]: GET /change-password.php
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:59876 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:60594 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:60594 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56460 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:60594 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:58240 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:52099 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56460 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:58240 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:52099 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56357 Accepted
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56357 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56460 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:58240 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:52099 Closing
+[Sun Oct  4 15:10:17 2026] 127.0.0.1:56357 Closing
+[Sun Oct  4 15:10:20 2026] 127.0.0.1:51997 Accepted
+[Sun Oct  4 15:10:20 2026] 127.0.0.1:51997 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:20 2026] 127.0.0.1:51997 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52168 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52168 [200]: GET /pincode-verification.php
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52168 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63431 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61498 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63334 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63431 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61498 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62682 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63334 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58719 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62682 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58719 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61498 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63431 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63334 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58719 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62682 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62207 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62207 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:62207 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61342 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61342 [200]: POST /pincode-verification.php
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61342 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:60150 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:60150 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:64872 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63826 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:60150 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61882 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:64872 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63826 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61882 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54532 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54532 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:64872 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63826 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:61882 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54532 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56049 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56049 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56049 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56334 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56334 [302]: POST /pincode-verification.php
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:56334 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54698 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54698 [200]: GET /enroll.php
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:54698 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63741 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63741 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:49899 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52680 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:63741 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58462 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:49899 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52680 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58462 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:51050 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:51050 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:49899 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:52680 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:58462 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:51050 Closing
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:50407 Accepted
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:50407 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:21 2026] 127.0.0.1:50407 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56685 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56685 [200]: POST /enroll.php
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56685 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:49330 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:49330 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:62112 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:49330 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:62112 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:62112 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56497 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64043 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:59214 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56497 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64043 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:59214 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56497 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:59214 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64043 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56059 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56059 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56059 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56618 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56618 [200]: GET /enroll-history.php
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:56618 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57801 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57801 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60660 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57801 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64832 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60660 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64832 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60660 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:50332 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64832 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:63472 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:50332 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:63472 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:63472 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:50332 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64937 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64937 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:64937 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:65401 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:65401 [200]: GET /my-profile.php
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:65401 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60229 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60229 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60229 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53122 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57075 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60691 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53122 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57075 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60691 [200]: GET /staffphoto/Capture.PNG
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53147 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53122 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53147 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:57075 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60272 Accepted
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60272 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60272 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:53147 Closing
+[Sun Oct  4 15:10:22 2026] 127.0.0.1:60691 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51518 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51518 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51518 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:59797 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:59797 [200]: POST /my-profile.php
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:59797 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:52588 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62454 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62022 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:52588 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62454 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62022 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:52588 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62454 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:60565 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:62022 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51511 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:60565 [200]: POST /staffphoto/Capture.PNG
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51511 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:55973 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:55973 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:51511 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:55973 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:60565 Closing
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:49670 Accepted
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:49670 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:23 2026] 127.0.0.1:49670 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:65382 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:65382 [200]: POST /my-profile.php
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:65382 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:59933 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:59933 [200]: POST /assets/css/bootstrap.css
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:63153 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:59933 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51242 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:63153 [200]: POST /assets/css/font-awesome.css
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51242 [200]: POST /assets/css/style.css
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49859 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51302 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:63153 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51242 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49859 [200]: POST /staffphoto/Capture.PNG
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51302 [200]: POST /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60927 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60927 [200]: POST /assets/js/bootstrap.js
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:51302 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60927 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49859 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58347 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58347 [200]: POST /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58347 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49761 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49761 [200]: GET /index.php
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:49761 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60509 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60509 [200]: GET /css/style.css
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58465 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:60509 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:56871 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58465 [200]: GET /img/gradester-logo.png
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:56871 [200]: GET /img/student-home-image1.png
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:58465 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:56871 Closing
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:62017 Accepted
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:62017 [200]: GET /img/student.png
+[Sun Oct  4 15:10:24 2026] 127.0.0.1:62017 Closing
+[Sun Oct  4 15:10:27 2026] 127.0.0.1:49341 Accepted
+[Sun Oct  4 15:10:27 2026] 127.0.0.1:49341 [200]: GET /img/background.png
+[Sun Oct  4 15:10:27 2026] 127.0.0.1:49341 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49870 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49870 [302]: POST /index.php
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49870 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:53416 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:53416 [200]: GET /change-password.php
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:53416 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:58388 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:58388 [200]: GET /assets/css/bootstrap.css
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:58388 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:65370 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:52504 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49832 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:65370 [200]: GET /assets/css/font-awesome.css
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:52504 [200]: GET /assets/css/style.css
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49832 [200]: GET /assets/js/jquery-1.11.1.js
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:50039 Accepted
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:50039 [200]: GET /assets/js/bootstrap.js
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:65370 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:52504 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:49832 Closing
+[Sun Oct  4 15:10:28 2026] 127.0.0.1:50039 Closing
+[Sun Oct  4 15:10:31 2026] 127.0.0.1:64944 Accepted
+[Sun Oct  4 15:10:31 2026] 127.0.0.1:64944 [200]: GET /assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+[Sun Oct  4 15:10:31 2026] 127.0.0.1:64944 Closing

@@ -1,0 +1,83 @@
+const { chromium } = require('playwright');
+const fs = require('fs');
+const path = require('path');
+const base = 'http://127.0.0.1:8000';
+const out = path.join(__dirname, 'pralad_evidence');
+fs.mkdirSync(out, { recursive: true });
+const results = [];
+const record = (name, ok, detail) => results.push({ name, ok, detail, at: new Date().toISOString() });
+(async () => {
+  const browser = await chromium.launch({ headless: true, executablePath: 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe', args: ['--no-sandbox'] });
+  const context = await browser.newContext({ viewport: { width: 1365, height: 900 } });
+  const page = await context.newPage();
+  await page.goto(base + '/index.php');
+  await page.screenshot({ path: path.join(out, '01_login_page.png'), fullPage: true });
+  await page.locator('#menu-student-signin').click();
+  await page.screenshot({ path: path.join(out, '02_login_form.png'), fullPage: true });
+  await page.locator('[name=regno]').fill('070101');
+  await page.locator('[name=password]').fill('1234');
+  await page.locator('button[type=submit]').click();
+  await page.waitForURL('**/change-password.php');
+  record('Valid teacher login', true, page.url());
+  await page.screenshot({ path: path.join(out, '03_teacher_area.png'), fullPage: true });
+
+  await page.goto(base + '/pincode-verification.php');
+  await page.locator('[name=pincode]').fill('000000');
+  await page.locator('button[type=submit]').click();
+  const wrong = await page.locator('body').innerText();
+  record('Wrong PIN rejected', wrong.includes('Wrong Pincode'), 'Error message displayed: ' + wrong.includes('Wrong Pincode'));
+  await page.screenshot({ path: path.join(out, '04_wrong_pin.png'), fullPage: true });
+  await page.locator('[name=pincode]').fill('185748');
+  await page.locator('button[type=submit]').click();
+  await page.waitForURL('**/enroll.php');
+  record('Correct PIN opens enrollment', true, page.url());
+  await page.screenshot({ path: path.join(out, '05_enrollment_form.png'), fullPage: true });
+
+  const selection = {};
+  for (const name of ['session','department','level','sem','course','course_code']) {
+    const loc = page.locator(`select[name=${name}]`);
+    const options = await loc.locator('option').evaluateAll(els => els.map(e => ({ value: e.value, text: e.textContent.trim() })));
+    selection[name] = options;
+    const valid = options.find(o => o.value && o.value !== '0' && !/select/i.test(o.text));
+    if (valid) await loc.selectOption(valid.value);
+  }
+  fs.writeFileSync(path.join(out, 'enrollment_options.json'), JSON.stringify(selection, null, 2));
+  const before = page.url();
+  await page.locator('#submit').click();
+  const enrolled = await page.locator('body').innerText();
+  record('Language enrollment submit', enrolled.includes('Enroll Successfully'), 'Success text: ' + enrolled.includes('Enroll Successfully') + '; URL: ' + page.url() + '; before: ' + before);
+  await page.screenshot({ path: path.join(out, '06_enrollment_result.png'), fullPage: true });
+  await page.goto(base + '/enroll-history.php');
+  await page.screenshot({ path: path.join(out, '07_enrollment_history.png'), fullPage: true });
+  record('Enrollment history heading', (await page.locator('body').innerText()).includes('Enroll History'), 'History page loaded');
+
+  await page.goto(base + '/my-profile.php');
+  await page.screenshot({ path: path.join(out, '08_profile.png'), fullPage: true });
+  record('Profile registration number', await page.locator('[name=studentregno]').inputValue() === '070101', await page.locator('[name=studentregno]').inputValue());
+  await page.locator('[name=studentname]').fill('Rahul Test');
+  await page.locator('#submit').click();
+  await page.waitForLoadState('networkidle');
+  const profileText = await page.locator('body').innerText();
+  const profileSaved = /Record updated Successfully/i.test(profileText);
+  record('Profile update', profileSaved, 'Success text: ' + profileSaved + '; POST debug text: ' + profileText.includes('Rahul Test'));
+  await page.screenshot({ path: path.join(out, '09_profile_update.png'), fullPage: true });
+  await page.locator('[name=studentname]').fill('Rahul');
+  await page.locator('#submit').click();
+  record('Profile name restored', (await page.locator('[name=studentname]').inputValue()) === 'Rahul', await page.locator('[name=studentname]').inputValue());
+
+  const attack = await browser.newContext({ viewport: { width: 1365, height: 900 } });
+  const attackPage = await attack.newPage();
+  await attackPage.goto(base + '/index.php');
+  await attackPage.locator('#menu-student-signin').click();
+  await attackPage.locator('[name=regno]').fill("x' OR 1=1 -- ");
+  await attackPage.locator('[name=password]').fill('wrong');
+  await attackPage.locator('button[type=submit]').click();
+  await attackPage.waitForLoadState('domcontentloaded');
+  const bypass = attackPage.url().includes('change-password.php');
+  record('SQL injection login probe', !bypass, 'Bypass observed: ' + bypass + '; destination: ' + attackPage.url());
+  await attackPage.screenshot({ path: path.join(out, '10_security_probe.png'), fullPage: true });
+  await attack.close();
+  await browser.close();
+  fs.writeFileSync(path.join(out, 'observations.json'), JSON.stringify(results, null, 2));
+  console.log(JSON.stringify(results, null, 2));
+})().catch(e => { console.error(e); process.exitCode = 1; });
